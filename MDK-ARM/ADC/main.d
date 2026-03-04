@@ -32,4 +32,5 @@ adc\main.o: ../Core/Inc/adc.h
 adc\main.o: ../Core/Inc/usart.h
 adc\main.o: ../Core/Inc/gpio.h
 adc\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
-adc\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\inttypes.h
+adc\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+adc\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
